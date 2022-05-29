@@ -1,3 +1,5 @@
+https://ihpark92.tistory.com/36?category=748068
+
 Bruhcoin integration/staging tree
 ================================
 
