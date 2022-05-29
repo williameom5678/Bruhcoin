@@ -1,25 +1,21 @@
 Bruhcoin integration/staging tree
 ================================
 
-http://www.bruhcoin.org
+
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Bruhcoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2022-2022 Bruhcoin Developers
 
 What is Bruhcoin?
 ----------------
 
 Bruhcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
-
-For more information, as well as an immediately useable, binary version of
-the Bruhcoin client sofware, see http://www.bruhcoin.org.
+ - 2 minute block targets
+ - subsidy halves in 100k blocks
+ - ~100 million total coins
+ - 100 coins per block
+ - 1000 blocks to retarget difficulty
 
 License
 -------
@@ -45,7 +41,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bruhcoin-project/bruhcoin/tags) are created
+completely stable. [Tags](https://github.com/williameom5678/bruhcoin/tags) are created
 regularly to indicate new official, stable release versions of Bruhcoin.
 
 Testing
